@@ -1,0 +1,22 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    color: cornflowerblue;
+}
+h3{
+    color: rgb(12, 206, 206);
+}
+p{
+    color: cadetblue;
+}
+
+p:hover{
+    color: rgb(66, 96, 97);
+}
+h3:hover{
+    color: rgb(38, 70, 70);
+}
+h1:hover{
+    color: rgb(61, 86, 131);
+}
